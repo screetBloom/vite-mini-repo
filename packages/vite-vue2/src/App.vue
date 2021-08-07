@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1> img error: Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of "image/png" </h1>
+    <img alt="Vue logo" src="//cli.vuejs.org/favicon.png">
   </div>
 </template>
 

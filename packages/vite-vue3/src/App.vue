@@ -1,6 +1,8 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <h1>
+    can get the image
+  </h1>
+  <img alt="Vue logo" src="//cli.vuejs.org/favicon.png" />
 </template>
 
 <script setup>

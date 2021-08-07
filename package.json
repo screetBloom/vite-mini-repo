@@ -1,0 +1,11 @@
+{
+  "name": "vite-mini-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/screetBloom/vite-mini-repo.git",
+  "author": "screetBloom <15306225869@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
